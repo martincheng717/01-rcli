@@ -15,3 +15,4 @@ fs = "0.0.5"
 json = "0.12.4"
 serde = { version = "1.0.228", features = ["derive"] }
 serde_json = "1.0.145"
+serde_yaml = "0.9.34"
